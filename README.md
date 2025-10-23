@@ -8,7 +8,6 @@ I'm <b>Vaibhav</b> . I'm a fan of GenAI and I love eating cheese.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaibhav-arya-737772324/)
 <br> <br>
-
 ## Skills
 <br> <br>
 <p align="center">
